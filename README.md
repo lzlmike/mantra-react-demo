@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## A Sample Blog App Written in Mantra
 
 This is a sample blog app written in [Mantra](https://github.com/kadirahq/mantra) covering core features of it.
@@ -41,6 +40,4 @@ npm run storybook
 > npm install
 > npm run storybook
 > ```
-=======
-# mantra-react-demo 
->>>>>>> 01b61a6c3d05d1cb588f0ee4f27150d87eb5f9d7
+
